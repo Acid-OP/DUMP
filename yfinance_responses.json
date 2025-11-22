@@ -1,0 +1,34 @@
+{
+  "CSPX.L": {
+    "symbol": "CSPX.L",
+    "name": "iShares VII PLC - iShares Core S&P 500 UCITS ETF",
+    "domicile": "US",
+    "exchange": "LSE",
+    "index": "",
+    "volume": 158871,
+    "aum": 0,
+    "currency": "USD",
+    "ucit": "Exchange Traded Fund",
+    "asset_class": "",
+    "amc": "BlackRock Asset Management Ireland - ETF",
+    "expense_ratio": 0.07,
+    "accumulating_or_distributing": "Accumulating",
+    "dividend_yield": 0
+  },
+  "IWDA.L": {
+    "symbol": "IWDA.L",
+    "name": "iShares Core MSCI World UCITS ETF USD (Acc)",
+    "domicile": "US",
+    "exchange": "LSE",
+    "index": "",
+    "volume": 313095,
+    "aum": 0,
+    "currency": "USD",
+    "ucit": "Exchange Traded Fund",
+    "asset_class": "",
+    "amc": "BlackRock Asset Management Ireland - ETF",
+    "expense_ratio": 0.2,
+    "accumulating_or_distributing": "Accumulating",
+    "dividend_yield": 0.0
+  }
+}
