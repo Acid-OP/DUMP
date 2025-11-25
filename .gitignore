@@ -40,3 +40,20 @@ wheels/
 # OS
 .DS_Store
 
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Output files
+etf_data.json
+etf_data_batch_*.json
+
+# IDE
+.vscode/
+.idea/
